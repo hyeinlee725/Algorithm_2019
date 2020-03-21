@@ -1,0 +1,7 @@
+﻿  obst.cpp
+c:\github\algorithm_2019\obst\obst.cpp(21): warning C4101: 'minpos' :참조되지 않은 지역 변수입니다.
+c:\github\algorithm_2019\obst\obst.cpp(21): warning C4101: 'min' :참조되지 않은 지역 변수입니다.
+  obst2.cpp
+c:\github\algorithm_2019\obst\obst2.cpp(30): error C2561: 'knuth_min': 함수는 값을 반환해야 합니다.
+  c:\github\algorithm_2019\obst\obst2.cpp(5): note: 'knuth_min' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
