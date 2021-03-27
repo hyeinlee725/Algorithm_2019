@@ -1,3 +1,3 @@
-#Algorithm
+# Algorithm
 
--Practice
+## - Practice
