@@ -1,3 +1,3 @@
 # Algorithm
-### Practice Coding
-### Assignment
+## Practice Coding
+## Assignment
